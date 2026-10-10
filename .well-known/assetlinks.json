@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.nutantechlabs.snakepuzzlemax",
+      "sha256_cert_fingerprints": [
+        "DE:3A:C7:0A:7A:C7:23:D2:42:79:76:68:59:68:57:DB:90:F9:4B:43:1E:7A:0B:B6:C2:03:F8:5E:94:69:DC:B8"
+      ]
+    }
+  }
+]
